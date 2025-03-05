@@ -20,5 +20,3 @@ This repository contains my implementation of a **multi-head Graph Attention Net
 - **Frameworks**: PyTorch, PyTorch Geometric, NumPy, Pandas  
 - **Hardware**: NVIDIA RTX 4080  
 - **Tools**: Git, Command Line  
-
-## Project Structure
