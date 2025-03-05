@@ -4,6 +4,7 @@ This repository contains my implementation of a **multi-head Graph Attention Net
 
 # Data Files
 - Test and Train files can be found here: https://www.kaggle.com/competitions/leash-BELKA/data
+- Files created by notebook (Such as gat model, graph strucutes, etc) not included as they are created by notebook.
 
 ## Overview
 - **Duration**: May 2024 – September 2024  
