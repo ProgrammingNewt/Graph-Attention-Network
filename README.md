@@ -2,6 +2,9 @@
 
 This repository contains my implementation of a **multi-head Graph Attention Network (GAT)** built for a Kaggle competition with a **17 million-row binding-affinity dataset**. Developed in **PyTorch Geometric**, it predicts molecular interactions, achieving **92.81% accuracy** and a **29% F1 score improvement** (0.61 → 0.79). Optimized for an RTX 4080 with VRAM constraints.
 
+# Data Files
+- Test and Train files can be found here: https://www.kaggle.com/competitions/leash-BELKA/data
+
 ## Overview
 - **Duration**: May 2024 – September 2024  
 - **Goal**: Predict binding affinity of molecules using graph-based ML on a massive dataset (~500K training graphs, 1.67M test molecules).  
